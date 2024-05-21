@@ -13,7 +13,7 @@ import io.cucumber.java.en.When;
 import java.util.List;
 
 
-public class LoginSteps1 {
+public class k LoginSteps1 {
     @Given("User is on login page of the Application")
     public void user_is_on_login_page_of_the_application() {
         // Write code here that turns the phrase above into concrete actions
